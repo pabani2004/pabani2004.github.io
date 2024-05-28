@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1,Odisha TV
+#EXTIMG: https://static.wikia.nocookie.net/logopedia/images/b/b2/Odisha_TV.jpg/revision/latest?cb=20190107102107
+https://otvvid-livecdn.vidgyor.com/otv-origin/live/playlist.m3u8
+#EXTINF:-1, Prarthana tv
+#EXTIMG: https://static.wikia.nocookie.net/logopedia/images/d/d2/Prarthana.jpg/revision/latest?cb=20190107141056
+https://otvvid-livecdn.vidgyor.com/prarthana-origin/live/playlist.m3u8
+#EXTINF:-1,Tarang tv
+#EXTIMG: https://static.wikia.nocookie.net/logopedia/images/e/e5/Tarang_TV.png/revision/latest?cb=20190107134132
+https://otvvid-livecdn.vidgyor.com/tarangtv-origin/live/playlist.m3u8
+#EXTINF:-1,Alankar tv
+#EXTIMG: https://static.wikia.nocookie.net/logopedia/images/b/b9/Alankar.png/revision/latest?cb=20190107141557
+https://otvvid-livecdn.vidgyor.com/alankar-origin/live/playlist.m3u8
+#EXTINF:-1,Tarang music
+#EXTIMG: https://static.wikia.nocookie.net/logopedia/images/e/e5/Tarang_Music.png/revision/latest?cb=20190107135457
+https://otvvid-livecdn.vidgyor.com/tarangmusic-origin/live/playlist.m3u8
